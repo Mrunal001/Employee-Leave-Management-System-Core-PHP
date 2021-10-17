@@ -1,0 +1,37 @@
+.radio_btn{
+	display: flex;
+	padding-top: 6px;
+}
+.female_btn{
+	margin-left: 15px;
+}
+.status_active{
+    padding: 3px 10px;
+    background: #B3ECC1;
+
+}
+.status_deactive{
+    padding: 3px 10px;
+    background: #F7B9BE;
+    
+}
+.status_pending{
+	padding: 3px 10px;
+    background: #f9d213;  
+}
+.dashboard_heading{color: #fff;}
+.error-msg {
+    color: red;
+}
+.emp_data_table tr{
+	height: 50px;
+	border: 1px solid black;
+}
+.emp_data_table th{
+	padding: 15px !important;
+}
+.success-msg {
+    color: green;
+}
+.list-group-item.active{background-color: #dae0e5!important; color: #000;}
+.dropdown-toggle::after{display: none;}

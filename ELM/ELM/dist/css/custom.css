@@ -1,0 +1,38 @@
+.radio_btn{
+	display: flex;
+	padding-top: 6px;
+}
+.female_btn{
+	margin-left: 15px;
+}
+.status_active{
+    padding: 3px 10px;
+    background: #B3ECC1;
+
+}
+.status_deactive{
+    padding: 3px 10px;
+    background: #F7B9BE;
+    
+}
+.status_pending{
+	padding: 3px 10px;
+    background: #f9d213;  
+}
+.dashboard_heading{color: #fff;}
+.error-msg {
+    color: red;
+}
+.success-msg {
+    color: green;
+}
+.approved_btn{
+    background: #28B779;
+    color: #fff;
+    padding: 10px;
+}
+.not_approved_btn{
+    background: #F7B9BE;
+    color: #fff;
+    padding: 10px;
+}
